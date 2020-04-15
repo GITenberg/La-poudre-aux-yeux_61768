@@ -1,0 +1,36 @@
+_repo: La-poudre-aux-yeux_61768
+_version: 0.0.1
+alternative_title: La poudre aux yeux -- Grenouilleau -- Ce bon monsieur... -- Le
+  gardien de chantiers -- L'individu.
+creator:
+  author:
+    agent_name: Boylesve, René
+    aliases:
+    - Tardivaux, René
+    - Boylesve, Rene
+    birthdate: 1867
+    deathdate: 1926
+    gutenberg_agent_id: '8323'
+    url: http://www.gutenberg.org/2009/agents/8323
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ren%C3%A9_Boylesve
+    - https://fr.wikipedia.org/wiki/Ren%C3%A9_Boylesve
+description: ''
+gutenberg_bookshelf:
+- FR Nouvelles
+- FR Nouveautés
+gutenberg_issued: '2020-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61768'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- !lcsh 'Short stories, French'
+- GITenberg
+title: La poudre aux yeux
+url: http://www.gutenberg.org/ebooks/61768
